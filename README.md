@@ -10,7 +10,7 @@ Shock & Detonation Toolbox - Cantera 2.1
 
 ------------------------------------------------------------------------
 
-### About the SD Toolbox
+###About the SD Toolbox
 
 The Shock & Detonation Toolbox is a collection of numerical routines
 that enables the solution of standard problems for gas-phase explosions
@@ -66,7 +66,7 @@ implementations for the SD Toolbox, please read
 
 ------------------------------------------------------------------------
 
-### Installation of Cantera
+###Installation of Cantera
 
 The SD Toolbox requires Cantera along with either MATLAB or Python. The
 recommended version of Cantera is 2.1 or higher. Instructions for
@@ -80,7 +80,7 @@ Windows, Mac OS X, and Linux are available
 
 ------------------------------------------------------------------------
 
-### Installation of SD Toolbox under Python
+###Installation of SD Toolbox under Python
 
  The Python interface to Cantera was changed considerably in the
 transition from Cantera 2.0 to Cantera 2.1. Many of the changes are
@@ -141,7 +141,7 @@ with no errors, the installation was successful.\
 
 ------------------------------------------------------------------------
 
-### Installation of SD Toolbox under MATLAB
+###Installation of SD Toolbox under MATLAB
 
 The MATLAB version of the SD Toolbox and a collection of demo scripts
 can be downloaded here:
@@ -180,7 +180,7 @@ hydrogen-oxygen detonation.\
 
 ------------------------------------------------------------------------
 
-### ZND Calculations
+###ZND Calculations
 
  ZND calculations have been implemented in the MATLAB version of the
 toolbox above, but are not available in the python version. However, on
@@ -217,7 +217,7 @@ sequences of overdrive values, equivalence ratios, and pressures.\
 
 ------------------------------------------------------------------------
 
-### Mechanism Files for Cantera
+###Mechanism Files for Cantera
 
 Cantera requires a mechanism (.cti)
 file with thermodynamic and reaction rate data for the species of
@@ -284,7 +284,7 @@ tool for this rather than the previously used compiled program.\
 
 ------------------------------------------------------------------------
 
-### Legacy SD Toolbox
+###Legacy SD Toolbox
 
 Legacy versions of the SD Toolbox which are compatible with Cantera
 1.7-2.0 remain available
@@ -296,7 +296,7 @@ extensive set of documentation with screen shots of the input and output
 to demo programs. There are also discussions of how to fit and
 extrapolate thermodynamic data; some users may find this useful.
 
-### Notes and Acknowledgments
+###Notes and Acknowledgments
 
 The Toolbox was updated in 2014 (Sept 9, 2014 ) for compatability with
 Python 2.7 and Cantera 2.1. Significant changes to the Cantera-Python
